@@ -1,0 +1,11 @@
+[network]
+rpc_url = "https://api.devnet.solana.com"
+
+[keys]
+sender_private_key = "環境変数とか知らんわいな"
+receiver_public_key = "DKy6SpGtVjGigwtQL84XkY95VkQz2af4R4UUvzpr17E5"
+
+[transaction]
+amount = 100000000
+min_balance = 5000000
+confirmation_timeout = 60
